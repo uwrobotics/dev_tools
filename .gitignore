@@ -1,0 +1,7 @@
+# Files that catkin_tools generates
+catkin_profiles/*/build.yaml
+catkin_profiles/*/packages/
+catkin_profiles/*/devel_collisions.txt
+
+# IDEs
+*.idea
