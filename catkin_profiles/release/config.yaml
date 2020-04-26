@@ -3,7 +3,7 @@ build_space: build
 catkin_make_args: []
 cmake_args:
 - -O3
-- -DCMAKE_CXX_CLANG_TIDY=clang-tidy-9
+- -DCMAKE_CXX_CLANG_TIDY=clang-tidy-8
 - -Wall
 - -Wextra
 - -Wpedantic
